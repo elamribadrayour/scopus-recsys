@@ -1,3 +1,9 @@
 [submodule "scopus-recsys-doc"]
 	path = scopus-recsys-doc
 	url = https://github.com/elamribadrayour/scopus-recsys-doc
+[submodule "scopus-recsys-job"]
+	path = scopus-recsys-job
+	url = https://github.com/elamribadrayour/scopus-recsys-job
+[submodule "scopus-recsys-app"]
+	path = scopus-recsys-app
+	url = https://github.com/elamribadrayour/scopus-recsys-app
